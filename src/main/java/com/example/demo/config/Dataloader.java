@@ -26,6 +26,7 @@ public class Dataloader implements CommandLineRunner {
 		if(repo.count()==0) {
 		try(InputStream inputStream = TypeReference.class.getResourceAsStream("/data/content.json")){
 		repo.saveAll(objectMapper.readValue(inputStream,new TypeReference<List<Content>>() {}));
+		
 			}
 		}
 	}
