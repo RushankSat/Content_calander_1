@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "title": "Project Digital Portfolio",
+    "desc": "Start developing your digital portfolio using React.js and MongoDB",
+    "status": "IDEA",
+    "contentType": "COURSE",
+    "dateCreated": "2023-01-27T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "sarthakkdev.io"
+  },
+  {
+    "id": null,
+    "title": "REST API project",
+    "desc": "Developing a REST API using Spring Boot",
+    "status": "IDEA",
+    "contentType": "COURSE",
+    "dateCreated": "2022-09-06T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "sharkApi.com"
+  },
+  {
+    "id": null,
+    "title": "Learn Spring Security",
+    "desc": "Start learning basic concepts of Spring security and try integrating them into your application.",
+    "status": "IDEA",
+    "contentType": "COURSE",
+    "dateCreated": "2022-05-17T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "spring.io"
+  },
+  {
+    "id": null,
+    "title": "Microservices in Spring Boot",
+    "desc": "Start learning microservices in spring boot and develop a basic microservice using spring boot.",
+    "status": "IDEA",
+    "contentType": "COURSE",
+    "dateCreated": "2023-02-14T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "springmicroservices.io"
+  },
+  {
+    "id": null,
+    "title": "Start with Docker",
+    "desc": "Start learning Docker and implement basic concepts using docker.",
+    "status": "IDEA",
+    "contentType": "COURSE",
+    "dateCreated": "2023-02-03T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "docker.com"
+  },
+  {
+    "id": null,
+    "title": "Blogging about your projects",
+    "desc": "Start blogging about your projects and explain the architecture of each and every project.\n",
+    "status": "IDEA",
+    "contentType": "ARTICLE",
+    "dateCreated": "2023-02-01T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "sarthakkdev.io"
+  }
+]
