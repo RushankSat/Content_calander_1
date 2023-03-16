@@ -15,10 +15,20 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 @Component
 public class Dataloader implements CommandLineRunner {
-	@Autowired
-	ContentRepository repo;
-	@Autowired
-	ObjectMapper objectMapper;
+	
+	private final ContentRepository repo;
+	
+	private final ObjectMapper objectMapper;
+	
+	
+
+	public Dataloader(ContentRepository repo, ObjectMapper objectMapper) {
+		super();
+		this.repo = repo;
+		this.objectMapper = objectMapper;
+	}
+
+
 
 	@Override
 	public void run(String... args) throws Exception {
